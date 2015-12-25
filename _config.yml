@@ -3,7 +3,7 @@ description:
 meta_description: "Maxime Hautebas"
 
 markdown: redcarpet
-highlighter: true
+pygments: true
 
 baseurl: '/'
 
