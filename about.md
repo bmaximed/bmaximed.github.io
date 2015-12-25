@@ -1,6 +1,8 @@
 ---
 layout: page
-title: Sobre mim
+title: A propos
 ---
 
-Entusiasta de tecnologias web, baixista e viciado em café. Você pode me conhecer melhor no <a href="https://github.com/ewertonorg">GitHub</a> e no <a href="https://twitter.com/ewertonorg">Twitter</a>.
+Je suis passionné par Android et j'apprend la programation sur ce systême. <br>
+Mon gihtub : [bmaximed](github.com/bmaximed)  
+Mon Twitter : [bmaximed](https://twitter.com/hautebas1)
