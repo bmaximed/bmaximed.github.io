@@ -1,0 +1,19 @@
+name: Maxime Hautebas
+description: 
+meta_description: "Maxime Hautebas"
+
+markdown: redcarpet
+highlighter: true
+
+baseurl: '/'
+
+logo: false
+paginate: 15
+permalink: /:title
+
+
+# Details for the RSS feed generator
+url:            'bmaximed.github.io'
+author:         'Maxime Hautebas'
+
+
